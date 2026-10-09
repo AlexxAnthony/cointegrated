@@ -1,6 +1,6 @@
 # Cointegrated: UK equity pairs trading
 
-**Live dashboard:** https://cointegrated-n4znpp47wt38z546c2kheg.streamlit.app
+**Live dashboard:** https://cointegrated.streamlit.app
 
 A research project that tests a statistical-arbitrage strategy on UK shares, end to end: data pipeline, pair selection, adaptive hedge ratio, out-of-sample backtest with costs, risk analytics, and a forward paper-trading record that updates every weekday. Simulation only. No real money is involved and nothing here is investment advice.
 
