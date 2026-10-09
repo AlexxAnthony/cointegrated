@@ -1,0 +1,15 @@
+{
+  "last_price_date": "2026-10-09",
+  "go_live": "2026-10-12",
+  "exported_at": "2026-10-09 17:21",
+  "cost_bps": 10,
+  "entry_z": 2.0,
+  "exit_z": 0.5,
+  "z_window": 60,
+  "pairs": [
+    "RIO.L/ANTO.L",
+    "PRU.L/ABDN.L",
+    "NG.L/SVT.L",
+    "SVT.L/UU.L"
+  ]
+}
